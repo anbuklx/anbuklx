@@ -1,8 +1,3 @@
-<h1 align="center"><b>Hi , I'm Anbuklx </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+system+engineering+student"></a>
-</p>
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <path d="M41.6364 203.028H73.4545V125.755L28 91.6646V189.392C28 196.937 34.1136 203.028 41.6364 203.028Z" fill="#4285F4"/>
@@ -11,3 +6,8 @@
 <path d="M73.4545 125.755V66.6646L128 107.574L182.545 66.6646V125.755L128 166.665" fill="#EA4335"/>
 <path d="M28 73.4825V91.6643L73.4545 125.755V66.6643L60.7273 57.1189C47.2273 47.0052 28 56.6189 28 73.4825Z" fill="#C5221F"/>
 </svg>
+<h1 align="center"><b>Hi , I'm Anbuklx </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+system+engineering+student"></a>
+</p>
